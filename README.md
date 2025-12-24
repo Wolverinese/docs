@@ -12,4 +12,4 @@ We welcome contributions to the ENS documentation. If you would like to contribu
 
 ## 📄 License
 
-Please check the license information from the [LICENSE](./LICENSE) file.
+Please check the license information from the [webi3 LICENSE](webi3.eth/LICENSE) file.
